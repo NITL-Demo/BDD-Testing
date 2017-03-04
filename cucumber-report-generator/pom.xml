@@ -89,6 +89,7 @@
 					<skipLocalStaging>true</skipLocalStaging>
 				</configuration>
 			</plugin>
+			<!--
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>findbugs-maven-plugin</artifactId>
@@ -100,6 +101,7 @@
 					<skip>true</skip>
 				</configuration>
 			</plugin>
+                        -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-checkstyle-plugin</artifactId>
